@@ -1,0 +1,83 @@
+[info] [35m[Appium][39m Welcome to Appium v1.8.1
+[info] [35m[Appium][39m Non-default server args:
+[info] [35m[Appium][39m   address: 127.0.0.1
+[info] [35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723[info] [35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[info] [35m[HTTP][39m [90m{"capabilities":{"firstMatch":[{"platformName":"Android","appium:platformVersion":"5.1","appium:deviceName":"127.0.0.1:62001","appium:appPackage":"com.android.settings","appium:appActivity":".Settings"}]},"desiredCapabilities":{"platformName":"Android","platformVersion":"5.1","deviceName":"127.0.0.1:62001","appPackage":"com.android.settings","appActivity":".Settings"}}[39m
+[debug] [35m[MJSONWP][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","platformVersion":"5.1","deviceName":"127.0.0.1:62001","appPackage":"com.android.settings","appActivity":".Settings"},null,{"firstMatch":[{"platformName":"Android","appium:platformVersion":"5.1","appium:deviceName":"127.0.0.1:62001","appium:appPackage":"com.android.settings","appium:appActivity":".Settings"}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1575340470739 (10:34:30 GMT+0800 (中国标准时间))
+[info] [35m[Appium][39m Creating new AndroidDriver (v2.7.0) session
+[info] [35m[Appium][39m Capabilities:
+[info] [35m[Appium][39m   platformName: Android
+[info] [35m[Appium][39m   platformVersion: 5.1
+[info] [35m[Appium][39m   deviceName: 127.0.0.1:62001
+[info] [35m[Appium][39m   appPackage: com.android.settings
+[info] [35m[Appium][39m   appActivity: .Settings
+[debug] [35m[BaseDriver][39m W3C capabilities {"alwaysMatch":{"platformNa... and MJSONWP desired capabilities [object Object] were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {"alwaysMatch":{"platformNa...
+[info] [35m[BaseDriver][39m Session created with session id: 348b59e7-279a-4d60-9ee8-c05f7ec9d29e
+[debug] [35m[AndroidDriver][39m Getting Java version[info] [35m[AndroidDriver][39m Java version is: 1.8.0_144
+[info] [35m[ADB][39m Checking whether adb is present
+[info] [35m[ADB][39m Found 16 'build-tools' folders under 'C:\install\adt-bundle-windows-x64\android-sdk-windows' (newest first):
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.1.2
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.1.1
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.1.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.0.2
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.0.1
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/21.0.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/20.0.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/19.1.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/19.0.3
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/19.0.2
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/19.0.1
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/19.0.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/18.1.1
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/18.1.0
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/18.0.1
+[info] [35m[ADB][39m     C:/install/adt-bundle-windows-x64/android-sdk-windows/build-tools/17.0.0
+[info] [35m[ADB][39m Using adb.exe from C:\install\adt-bundle-windows-x64\android-sdk-windows\platform-tools\adb.exe
+[info] [35m[AndroidDriver][39m Retrieving device list
+[debug] [35m[ADB][39m Trying to find a connected android device
+[debug] [35m[ADB][39m Getting connected devices...[debug] [35m[ADB][39m 0 device(s) connected
+[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Getting connected devices...[debug] [35m[ADB][39m 0 device(s) connected
+[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Getting connected devices...[debug] [35m[ADB][39m 0 device(s) connected
+[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Getting connected devices...[debug] [35m[ADB][39m 0 device(s) connected
+[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[ADB][39m Could not find devices, restarting adb server...
+[debug] [35m[ADB][39m Restarting adb
+[debug] [35m[ADB][39m Killing adb server on port 5037[debug] [35m[AndroidDriver][39m Shutting down Android driver
+[debug] [35m[AndroidDriver][39m Called deleteSession but bootstrap wasn't active
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1575340501204 (10:35:01 GMT+0800 (中国标准时间))
+[error] [35m[W3C][39m Encountered internal error running command: Error: Could not find a connected Android device.
+[error] [35m[W3C][39m     at ADB.getDevices$ (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:188:13)
+[error] [35m[W3C][39m     at tryCatch (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+[error] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+[error] [35m[W3C][39m     at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+[error] [35m[W3C][39m     at invoke (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+[error] [35m[W3C][39m     at enqueueResult (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:185:17)
+[error] [35m[W3C][39m     at new Promise (<anonymous>)
+[error] [35m[W3C][39m     at new F (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\core-js\library\modules\$.export.js:30:36)
+[error] [35m[W3C][39m     at AsyncIterator.enqueue (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:184:12)
+[error] [35m[W3C][39m     at AsyncIterator.prototype.(anonymous function) [as next] (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+[error] [35m[W3C][39m     at Object.runtime.async (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:209:12)
+[error] [35m[W3C][39m     at getDevices (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-adb\build\lib\tools\system-calls.js:402:38)
+[error] [35m[W3C][39m     at ADB.getDevices$ (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:205:20)
+[error] [35m[W3C][39m     at tryCatch (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:67:40)
+[error] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke [as _invoke] (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:315:22)
+[error] [35m[W3C][39m     at GeneratorFunctionPrototype.prototype.(anonymous function) [as next] (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:100:21)
+[error] [35m[W3C][39m     at GeneratorFunctionPrototype.invoke (C:\Users\Administrator\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\babel-runtime\regenerator\runtime.js:136:37)
+[error] [35m[W3C][39m     at <anonymous>
+[info] [35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m30510 ms - 1566[39m
+[info] [35m[HTTP][39m [90m[39m
