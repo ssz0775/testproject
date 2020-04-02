@@ -1,2 +1,60 @@
-# testproject
-è¿™æ˜¯ä¸€ä¸ªæµ‹è¯•ä»“åº“
+# ĞÅºô£¬Ãâ·Ñ¿ªÔ´µÄ°ì¹«OAÏµÍ³
+
+¿ª·¢Õß£ºÓêÖĞÅÍÊ¯(rainrock)  
+ÓÊÏä£ºadmin@rockoa.com  
+¹«Ë¾ÍÅ¶Ó£ºĞÅºô¿ª·¢ÍÅ¶Ó  
+¹ÙÍøÍøÕ¾£ºhttp://www.rockoa.com/  
+Ô´Âë½ö¹©Ñ§Ï°¶ş´Î¿ª·¢Ê¹ÓÃ£¬½ûÖ¹ÓÃÓÚÉÌÒµÓÃÍ¾³öÊÛµÈ(Î¥Õß±Ø¾¿)  
+°æÈ¨£ºCopyright @2016-2019 ĞÅºô¿ª·¢ÍÅ¶Ó  
+°æ±¾ÕûÀíÊ±¼ä£º2019-11-29 23:59:59  
+°æ±¾ºÅ£ºV1.9.9   
+
+
+### V1.9.9¸üĞÂËµÃ÷
+1¡¢ÍêÉÆÏµÍ³°²È«ĞÔ¡£  
+2¡¢¸ü¶àÉı¼¶ÈÕÖ¾Ïê¼û£ºhttp://www.rockoa.com/view_core.html  
+
+
+### °²×°ËµÃ÷
+1¡¢»·¾³ÒªÇó£º¿ÉÒÔÔËĞĞÔÚWin/LinuxÏµÍ³ÏÂ£¬php5.2+£¬mysql5.3+  
+2¡¢²âÊÔ»·¾³´î½¨Ïê¼û£ºhttp://www.rockoa.com/view_install.html  
+3¡¢×Ô¼ºÊÖ¶¯°²×°Ïê¼û£ºhttp://www.rockoa.com/view_anzz.html  
+4¡¢ÅäÖÃÎÄ¼ş£ºwebmain/webmainConfig.php£¬Ò²¿Éµ½¡¾ÏµÍ³¡úÏµÍ³¹¤¾ß¡úÏµÍ³ÉèÖÃ¡¿ÏÂĞŞ¸Ä  
+5¡¢´ò¿ªä¯ÀÀÆ÷·ÃÎÊ£ºhttp://ÄúµÄµØÖ·/  
+6¡¢ÄúÊ¹ÓÃ´ËÏµÍ³Ê±£¬ÇëÎñ±Ø×ñÊØÎÒÃÇµÄ¿ªÔ´Ë¼Ïë£¬Çë×ğÖØÎÒÃÇµÄÀÍ¶¯³É¹û£¬Ğ»Ğ»£¡
+
+### ¿ª·¢°ïÖúÎÄµµ
+µØÖ·£ºhttp://www.rockoa.com/help.html  
+
+### ĞÅºôÏà¹Ø²úÆ·
+1¡¢ĞÅºôÏµÍ³(ºóÌ¨/ÊÖ»úÍøÒ³°æ/REIM)  
+2¡¢°²×¿APP  
+3¡¢ĞÅºô·şÎñ¶Ë(¼´Ê±Í¨ĞÅ£¬¼Æ»®ÈÎÎñÊ¹ÓÃ)  
+4¡¢REIM¼´Ê±Í¨ĞÅPC¿Í»§¶Ë  
+5¡¢ÒÔÉÏÏÂÔØµØÖ·£ºhttp://www.rockoa.com/view_down.html  
+
+
+
+### ĞÅºôÉùÃ÷ 
+1¡¢Ã»ÓĞÒ»¿îÏµÍ³ÊÇ100%°²È«£¬ĞÅºôÒ²ÊÇÈç´Ë£¬ÈÎºÎ±©Â¶ÔÚ¹«ÍøÖĞµÄÏµÍ³£¬¶¼ÓĞÊı¾İĞ¹Â¶µÄ·çÏÕ£¬Ò»µ©Äú¾ö¶¨½«ĞÅºô²¿ÊğÔÚ¹«Íø»·¾³ÖĞ£¬Çë×ĞÏ¸ÆÀ¹À¿ÉÄÜÓÉ´Ë´øÀ´µÄ·çÏÕ£¬²¢¾¡¿ÉÄÜµÄ¼ÓÇ¿°²È«´ëÊ©¡£  
+2¡¢»òĞíÄú¾õµÃ´ËÏµÍ³ÊÇÀ±¼¦£¬»¶Ó­ÌáÒâ¼ûºÍÄúµÄÏë·¨¸øÎÒÃÇ£¬»òÕß·¢ÓÊ¼ş¸øÎÒÃÇ£ºadmin@rockoa.com¡£  
+
+### ÉùÃ÷¸ĞĞ»  
+ÏµÍ³ÓĞÓÃµ½Ò»Ğ©¿ªÔ´µÄÏîÄ¿£¬ÌØ±ğ¸ĞĞ»ËûÃÇÌá¹©·îÏ×£¬²»·ÖÏÈºóË³Ğò¡£    
+1¡¢PHPºó¶ËÓïÑÔ£ºhttp://www.php.net/   
+2¡¢MySqlÊı¾İ¿â£ºhttps://www.mysql.com/    
+3¡¢BootstrapºóÌ¨ÑùÊ½×é¼ş£ºhttp://v3.bootcss.com/components/  
+4¡¢×ÖÌåÍ¼±ê£ºhttp://www.bootcss.com/p/font-awesome/  
+5¡¢Jquery¿ò¼Ü£ºhttp://jquery.com/  
+6¡¢PHPMailerÓÊ¼ş·¢ËÍ×é¼ş£ºhttps://github.com/PHPMailer/PHPMailer  
+7¡¢kindeditor¸»ÎÄ±¾±à¼­Æ÷£ºhttp://kindeditor.net/  
+8¡¢pdfjsÔ¤ÀÀpdf£ºhttp://mozilla.github.io/pdf.js/  
+9¡¢weuiÊÖ»ú¶Ë¿ò¼Ü£ºhttps://weui.io/0.4.x/#/  
+10¡¢phpqrcodeÉú³É¶şÎ¬Âë£ºhttp://phpqrcode.sourceforge.net/    
+11¡¢JPush¼«¹âÍÆËÍ£ºhttps://www.jiguang.cn/  
+12¡¢Ğ¡Ã×ÍÆËÍ£ºhttps://dev.mi.com/console/appservice/push.html  
+13¡¢workerman·şÎñ¶Ëphpsocket¿ò¼Ü£ºhttp://www.workerman.net/  
+14¡¢nwjsµÄPC¿Í»§¶Ë¿ò¼Ü£ºhttps://nwjs.io/  
+15¡¢iconfontÍ¼±ê¿â£ºhttp://www.iconfont.cn/   
+16¡¢ÌÚÑ¶µØÍ¼£ºhttp://map.qq.com/  
+16¡¢nodejs£ºhttps://nodejs.org/ 
